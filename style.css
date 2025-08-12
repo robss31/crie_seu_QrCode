@@ -88,7 +88,7 @@ header p {
 .qr-code .img {
     width: 250px;
     height: 245PX;
-    border-radius: 20px;
+    border-radius: 0px;
     padding-bottom: 20px;
 }  
 
